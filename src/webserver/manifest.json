@@ -1,0 +1,10 @@
+{
+	"name":"Webserver",
+	"desc":"Launch webserver from c01n",
+	"tags":["development"],
+	"author":"lweikit",
+	"version":"200105",
+	"pkg":"webserver",
+	"start":"webserver",
+	"pubEpoch": 1578230451
+}
